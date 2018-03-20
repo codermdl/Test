@@ -101,6 +101,7 @@
 		9D428900206101C700DF2821 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				9DC31AA22061183900E5EBAA /* dir1 */,
 				9D428901206101C800DF2821 /* AppDelegate.h */,
 				9D428902206101C800DF2821 /* AppDelegate.m */,
 				9D428904206101C800DF2821 /* ViewController.h */,
@@ -130,6 +131,21 @@
 				9D428927206101C900DF2821 /* Info.plist */,
 			);
 			path = TestUITests;
+			sourceTree = "<group>";
+		};
+		9DC31AA22061183900E5EBAA /* dir1 */ = {
+			isa = PBXGroup;
+			children = (
+				9DC31AA32061184A00E5EBAA /* New Group */,
+			);
+			path = dir1;
+			sourceTree = "<group>";
+		};
+		9DC31AA32061184A00E5EBAA /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
